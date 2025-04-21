@@ -12,4 +12,6 @@ to create a video game showcasing that.
 
 <a href="https://github.com/WoodrowCrawford/MakingGamesIsFun-VisualNovel/releases/download/v1.0/MakingGamesIsFun-1.0-Win.zip">Download on Windows here</a>
 
+<a href="https://github.com/WoodrowCrawford/MakingGamesIsFun-VisualNovel/releases/download/v1.0/MakingGamesIsFun-v1.0-Mac.zip">Download on Mac here</a>
+
 
