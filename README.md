@@ -10,6 +10,6 @@ to create a video game showcasing that.
 
 <a href="https://woodrowcrawford.github.io/MakingGamesIsFun-VisualNovel/">Play on web here</a>
 
-<a href=
+<a href="https://github.com/WoodrowCrawford/MakingGamesIsFun-VisualNovel/releases/download/v1.0/MakingGamesIsFun-1.0-Win.zip">Download on Windows here</a>
 
 
